@@ -351,5 +351,6 @@ The following guides may also be helpful:
 * https://spring.io/guides/gs/spring-boot/[Building an Application with Spring Boot]
 * https://spring.io/guides/topicals/spring-boot-docker[Topical Guide on Spring Boot with Docker] (more depth than this guide)
 * https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/deploy-spring-boot-java-app-on-linux (deploy as Azure App Service)
+* https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app (Java Spring app with Azure App Configuration)
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
