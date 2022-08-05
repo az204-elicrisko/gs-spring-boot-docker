@@ -3,6 +3,10 @@
 
 name: Build and deploy JAR app to Azure Web App - elispbootjavase
 
+defaults:
+  run:
+    working-directory: initial
+
 on:
   push:
     branches:
